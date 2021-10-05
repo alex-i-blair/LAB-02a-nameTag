@@ -1,0 +1,33 @@
+* {
+    width: 350px;
+    text-align: center;
+}
+
+#intro {
+    margin-top: 0px;
+
+}
+h1 {
+    font-size: 4em;
+    margin-bottom: 0;
+    line-height: 70%;
+    padding-top: 10px;
+}
+header {
+    color: white;
+    background-color: red;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+
+}
+
+footer {
+    background-color: red;
+    height: 30px;
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+}
+#name {
+    font-family: cursive;
+    font-size: 2em;
+}
