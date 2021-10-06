@@ -21,13 +21,31 @@ header {
 
 }
 
+}
+section {
+    width: 300px;
+    margin: 20px auto;
+}
+#background-color {
+    /* box-sizing: border-box;
+    border: none;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px; */
+}
+.faded {
+    opacity: 0.5;
+}
+
 footer {
     background-color: red;
     height: 30px;
     border-bottom-left-radius: 20px;
     border-bottom-right-radius: 20px;
 }
-#name {
+#name-display {
     font-family: cursive;
     font-size: 2em;
 }
